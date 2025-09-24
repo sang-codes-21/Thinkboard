@@ -3,7 +3,7 @@
 
 ## 🧪 .env Setup
 
-### Backend (`/backend`)
+### Backend (`/backend/.env`)
 
 ```
 MONGO_URI=<your_mongo_uri>
