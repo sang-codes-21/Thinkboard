@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 **Extra:**
-
+```
 for icon:
 npm i lucide-react  
 
@@ -39,3 +39,4 @@ npm i axios
 
 for tyo notification type:
 npm i react-hot-toast
+```
