@@ -29,3 +29,12 @@ cd frontend
 npm install
 npm run dev
 ```
+Extra:
+for icon:
+npm i lucide-react  
+
+for api fetch
+npm i axios
+
+for tyo notification type
+npm i react-hot-toast
